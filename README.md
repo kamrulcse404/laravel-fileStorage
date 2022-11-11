@@ -1,0 +1,1 @@
+You have to link storage with this command: php artisan storage:link
